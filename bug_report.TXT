@@ -1,1 +1,6 @@
-
+Summary
+Description
+Step to reproduce
+Severity
+Priority
+Envirenment
